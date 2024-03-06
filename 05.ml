@@ -1,7 +1,8 @@
 (* [05] Reverse a List
 
    Reverse a list; similar to `List.rev`.
-   The signature is `reverse : 'a list -> 'a list`. *)
+   The signature is `reverse : 'a list -> 'a list`.
+*)
 
 (* Using the `@` operator (list concatenation) *)
 let rec reverse list =
